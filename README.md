@@ -41,3 +41,15 @@
 [HHVM](https://hhvm.com/) is an open-source virtual machine designed for executing programs written in [Hack](https://hacklang.org/). HHVM uses a just-in-time (JIT) compilation approach to achieve superior performance while maintaining amazing development flexibility. HHVM should be used together with a webserver like the built in, easy to deploy [Proxygen](https://docs.hhvm.com/hhvm/basic-usage/proxygen), or a [FastCGI-based](https://docs.hhvm.com/hhvm/advanced-usage/fastCGI) webserver on top of nginx or Apache.
 
 [PHPUnit](https://phpunit.de/) is a programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks.
+
+[Phalcon](https://phalcon.io/) is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption.
+
+[Swoole](https://www.swoole.co.uk/) is an event-driven asynchronous & coroutine-based concurrency networking communication engine with high performance written in C and C++ for PHP.
+
+[Matomo](https://matomo.org/) is a full-featured PHP MySQL software program that you download and install on your own webserver. At the end of the five-minute installation process, you will be given a JavaScript code. Simply copy and paste this tag on websites you wish to track and access your analytics reports in real-time.
+
+[Grav](https://getgrav.org/) is a Fast, Simple, and Flexible, file-based Web-platform. There is Zero installation required. Just extract the ZIP archive, and you are already up and running. It follows similar principles to other flat-file CMS platforms, but has a different design philosophy than most. Grav comes with a powerful Package Management System to allow for simple installation and upgrading of plugins and themes, as well as simple updating of Grav itself.
+
+[Whoops](https://filp.github.io/whoops/) is an error handler framework for PHP. Out-of-the-box, it provides a pretty error interface that helps you debug your web projects, but at heart it's a simple yet powerful stacked error handling system.
+
+[Slim](https://www.slimframework.com/) is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. 
