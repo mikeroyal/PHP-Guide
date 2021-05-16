@@ -6,9 +6,20 @@
 
 #### A guide covering PHP including the applications and tools that will make you a better and more efficient PHP developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118412219-9e546480-b64d-11eb-98bd-6cc0b2a3070c.png">
+  <br />
+</p>
+
+# PHP Learning Resources
 
 [PHP](https://www.php.net/) is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+
+[PHP 8](https://www.php.net/releases/8.0/en.php)
+
+[What's New in PHP 8 - Auth0](https://auth0.com/blog/whats-new-php-8/)
 
 [PHP Manual](https://www.php.net/manual/en/index.php)
 
@@ -16,13 +27,11 @@
 
 [PHP Style Guide](https://gist.github.com/ryansechrest/8138375)
 
-[PHP 7 Tutorial - An Ultimate Guide for Beginners](https://www.tutorialrepublic.com/php-tutorial/)
-
 [PHP tutorial by W3Schools](https://www.w3schools.com/php/)
 
-[PHP MySQL & CodeIgniter Course by Udemy ](https://www.udemy.com/course/php-mysql-codeigniter-complete-guide/)
+[PHP MySQL & CodeIgniter Course on Udemy](https://www.udemy.com/course/php-mysql-codeigniter-complete-guide/)
 
-## Tools
+# PHP Tools and Frameworks
 
 [PhpStorm](https://www.jetbrains.com/phpstorm/) is a professional PHP IDE developed by Jet Brains for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.
 
@@ -57,3 +66,12 @@
 [Whoops](https://filp.github.io/whoops/) is an error handler framework for PHP. Out-of-the-box, it provides a pretty error interface that helps you debug your web projects, but at heart it's a simple yet powerful stacked error handling system.
 
 [Slim](https://www.slimframework.com/) is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. 
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/PHP-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
