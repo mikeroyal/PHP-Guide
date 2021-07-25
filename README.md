@@ -33,9 +33,15 @@
 
 # PHP Tools and Frameworks
 
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[Code Server](https://coder.com/) is a tool that allows you to run [VS Code](https://code.visualstudio.com/) on any machine anywhere and access it in the browser.
+
 [PhpStorm](https://www.jetbrains.com/phpstorm/) is a professional PHP IDE developed by Jet Brains for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.
 
 [Laravel](https://laravel.com/) is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.
+
+[PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) is a high performance PHP language server packed full of essential features for productive PHP development in Visual Studio Code.
 
 [PHP Tools for Visual Studio/VS Code](https://www.devsense.com/en) is a an extension that turn Visual Studio into a powerful PHP development environment.
 
